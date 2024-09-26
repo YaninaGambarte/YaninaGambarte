@@ -5,5 +5,10 @@
  - Email: yaninagambarte72@gmail.com
 
 
-
 ## Contactanos
+
+##Languages
+
+- English
+- Spanish
+- French

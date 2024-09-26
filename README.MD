@@ -6,6 +6,12 @@
 
 ## Habilidades 
 
+## Contactanos
 
+## Languages
+
+- English
+- Spanish
+- French
 
 ## Contactanos

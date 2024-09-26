@@ -4,6 +4,7 @@
 - Nombre: Yanina Gambarte
  - Email: yaninagambarte72@gmail.com
 
+## Habilidades 
 
 ## Contactanos
 
@@ -12,3 +13,5 @@
 - English
 - Spanish
 - French
+
+## Contactanos
